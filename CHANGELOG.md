@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.24.8](https://github.com/RockefellerArchiveCenter/rac_schemas/compare/v0.24.7...v0.24.8) (2026-10-21)
+
+
+### Bug Fixes
+
+* pip update ([15d07e9](https://github.com/RockefellerArchiveCenter/rac_schemas/commit/15d07e9e0669e07e141008755ae7899be02e024a))
+* pip update ([15d07e9](https://github.com/RockefellerArchiveCenter/rac_schemas/commit/15d07e9e0669e07e141008755ae7899be02e024a))
+* pip update ([35a29e7](https://github.com/RockefellerArchiveCenter/rac_schemas/commit/35a29e7c620adb23b818d1f5be14f356dddcb324))
+* pip update ([35a29e7](https://github.com/RockefellerArchiveCenter/rac_schemas/commit/35a29e7c620adb23b818d1f5be14f356dddcb324))
+* pip update ([bc1b688](https://github.com/RockefellerArchiveCenter/rac_schemas/commit/bc1b68858be2d4dce47c5c4e11cc179caa2b4298))
+
 ## [0.24.7](https://github.com/RockefellerArchiveCenter/rac_schemas/compare/v0.24.6...v0.24.7) (2026-10-06)
 
 
