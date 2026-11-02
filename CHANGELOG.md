@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.24.9](https://github.com/RockefellerArchiveCenter/rac_schemas/compare/v0.24.8...v0.24.9) (2026-11-02)
+
+
+### Bug Fixes
+
+* **deps:** Scheduled dependency updates ([c2e8593](https://github.com/RockefellerArchiveCenter/rac_schemas/commit/c2e859329f1278a59d8cbdc594bfd4fd899115a0))
+* **deps:** Scheduled dependency updates ([c2e8593](https://github.com/RockefellerArchiveCenter/rac_schemas/commit/c2e859329f1278a59d8cbdc594bfd4fd899115a0))
+* **deps:** Scheduled dependency updates ([61d626c](https://github.com/RockefellerArchiveCenter/rac_schemas/commit/61d626ce3d82e04ee7c31337bd040fd91d99e5c9))
+* **deps:** Scheduled dependency updates ([61d626c](https://github.com/RockefellerArchiveCenter/rac_schemas/commit/61d626ce3d82e04ee7c31337bd040fd91d99e5c9))
+* **deps:** Scheduled dependency updates ([48e7a56](https://github.com/RockefellerArchiveCenter/rac_schemas/commit/48e7a5654694b8574b42c27db92867c985381f82))
+
 ## [0.24.8](https://github.com/RockefellerArchiveCenter/rac_schemas/compare/v0.24.7...v0.24.8) (2026-10-21)
 
 
